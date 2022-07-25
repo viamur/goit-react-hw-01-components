@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 10px;
   background-color: rgb(235, 235, 235);
+  margin-bottom: 50px;
 }
 .item {
   display: flex;
